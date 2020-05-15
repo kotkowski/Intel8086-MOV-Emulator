@@ -1,0 +1,13 @@
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\bin\Release\Intel8086.exe.config
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\bin\Release\Intel8086.exe.manifest
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\bin\Release\Intel8086.application
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\bin\Release\Intel8086.exe
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\bin\Release\Intel8086.pdb
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.csprojAssemblyReference.cache
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.Form1.resources
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.Properties.Resources.resources
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.csproj.GenerateResource.cache
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.exe.manifest
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.application
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.exe
+C:\Users\marcin.jasica\Documents\GitHub\Intel8086\Intel8086\Intel8086\obj\Release\Intel8086.pdb
